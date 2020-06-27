@@ -1,0 +1,25 @@
+Secure communication
+Cryptography's most obvious application is to
+encrypt communications between us and another device.
+It is most widely used for contact
+between a server and a client system.
+Web browser and web server, or email
+client and email server are examples of this.
+
+End-to-end Encryption
+Email is one field that
+isn't commonly used for encryption.
+It is encrypted as email travels from server
+to a server, and from server to server to you.
+However, an administrator can read it on
+the mail server and on your system.
+
+Storing Data
+We all store a large amount of data, and any data is valuable to at least the person who generated it.operating system uses encryption in some of the core components to keep passwords secret, mask certain
+parts of the code, and make sure that updates and fixes are actually from the system's manufacturer.
+
+Save passwords
+
+Authentication of Identity
+Cryptography is closely related to the password approach, and creative schemes are likely to use powerful
+cryptographic methods in combination with individual physical methods and collective secrets that provide highly secure identity checks
